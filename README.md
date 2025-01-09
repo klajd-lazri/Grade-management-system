@@ -12,3 +12,5 @@ User Stories
 - As a teacher I want to  have lists of all the students and their grades and to be able to search of them, so that it can be easier to navigate.
 
 - As a parent I want to recieve automatic information about my kid every month, so that I can be regularly informed about my kid.
+
+- As a teacher I want to be able to send messages/information to a student/parent so that I can inform them about a specific thing.
