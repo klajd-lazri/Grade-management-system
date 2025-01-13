@@ -1,10 +1,10 @@
 # Grade-management-system
 
-Project description
+**Project description**
+A grade management system will be created to allow teachers to better manage the grades of their students. On the other hand the system will be helpful for students and parents as well, since they will get automatic information each month, while the teacher can also send specific messages or information when needed. 
 
 
-
-User Stories
+**User Stories**
 - As a teacher I want to be able to enter and update the grades of the student, so that each students can have his or her grades and the parents can be informed
 
 - As a student, I want to receive automatic information about myself, so that I can know where to improve myself.
