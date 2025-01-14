@@ -15,4 +15,4 @@ A grade management system will be created to allow teachers to better manage the
 
 - As a teacher I want to be able to send messages/information to a student/parent so that I can inform them about a specific thing.
 
-![Usecase.png]
+![Image](Usecase.png)
