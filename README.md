@@ -13,6 +13,6 @@ A grade management system will be created to allow teachers to better manage the
 
 - As a parent I want to recieve automatic information about my kid every month, so that I can be regularly informed about my kid.
 
-- As a teacher I want to be able to send messages/information to a student/parent so that I can inform them about a specific thing.
+-> As a teacher I want to be able to send messages/information to a student/parent so that I can inform them about a specific thing.
 
 ![Image](Usecase.png)
